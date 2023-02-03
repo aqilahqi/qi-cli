@@ -1,8 +1,9 @@
 {
-  "name": "cli-tool",
+  "name": "qi-test-cli",
   "version": "1.0.0",
   "description": "Gets a string and converts it to uppercase, alternate upper and lower case, and creates a CSV because why not",
   "main": "index.js",
+  "type": "modules"
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
